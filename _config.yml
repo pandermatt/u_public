@@ -1,5 +1,3 @@
-baseurl: ""
-url: ""
 permalink: :title.html
 
 exclude: [Url]

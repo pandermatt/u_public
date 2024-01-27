@@ -1,3 +1,4 @@
 ---
-layout: home
+layout: redirect
+redirect: 'https://pandermatt.ch/404'
 ---
